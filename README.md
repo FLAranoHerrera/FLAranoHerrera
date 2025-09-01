@@ -51,11 +51,11 @@
 </details>
 
 <details>
-<summary>Stack</summary>
+<summary>STACK</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Lenguajes de Programación</kbd>
+      <kbd>Lenguajes</kbd>
       <br>
       <br> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
@@ -85,6 +85,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
     </kbd>
+	  <kbd>
       <kbd>Operating System, Networking & Deployment</kbd>
       <br>
       <br>
@@ -115,19 +116,13 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>GITHUB STATS</summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
-<details>
-  
-</details>
-
-
-</details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
@@ -135,7 +130,7 @@
 
 <div align=center>
 <a href="https://www.linkedin.com/in/francisco-leonardo-arano-herrera-540198169" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:aranoherrera92@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:aranoherrera92@gmail.com?subject=Hola%20Frank!%20,%20Que%20tal!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 </div>
 
