@@ -18,7 +18,7 @@
   <div align=center>
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Frank;Bienvenidos+a+mi+perfil+de+GitHub;Fullstack+Developer+;Gym+Freak+Gamer+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Fullstack+Developer;Bienvenidos+a+mi+perfil+de+GitHub;Me +apasiona+el+Gym+los+videojuegos+y+codear" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -135,11 +135,11 @@
 
 <div align=center>
 <a href="https://www.linkedin.com/in/francisco-leonardo-arano-herrera-540198169" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:aranoherrera92@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:aranoherrera92@gmail.com?subject=Hola!%20,%20Escribeme" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 </div>
 
 ------
 Credit: [10Kartik](https://github.com/10Kartik)
 
-Last Edited on: 18/01/2024
+Last Edited on: 01/09/2025
