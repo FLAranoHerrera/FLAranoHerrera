@@ -18,7 +18,7 @@
   <div align=center>
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Frank;Bienvenidos+a+mi+GitHub;Fullstack+Dev+;Con+enfoque+en+Backend;Games+;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Frank;Bienvenidos+a+mi+perfil+de+GitHub;Fullstack+Developer+;Gym+Freak+Gamer+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -37,7 +37,7 @@
  * @param {string} Ubicación - Veracruz, México.
  * @param {string} Idiomas - Español, Inglés.
  * @param {string} Estudios - Desarrollador fullstack con especialización en Backend con NestJS.
- * @param {string} Pasatiempo - Videojuegos, Gym, Futbol, Tennis y Programar.
+ * @param {string} Pasatiempos - Videojuegos, Gym, Futbol, Tennis y Programar.
 
  *
  * @throws {Punch} To any and all bugs.
@@ -68,7 +68,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
