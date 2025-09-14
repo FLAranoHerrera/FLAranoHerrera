@@ -37,14 +37,14 @@
  *
  * @constructor
  * @param {string} Ubicación - Veracruz, México.
- * @param {string} Idiomas - Español, Inglés.
+ * @param {string[]} Idiomas - [Español, Inglés].
  * @param {string} Estudios - Desarrollador fullstack con especialización en Backend con NestJS.
- * @param {string} Pasatiempos - Videojuegos, Gym, Futbol, Tennis y Programar.
+ * @param {string[]} Pasatiempos - [Videojuegos, Gym, Futbol, Tennis y Programar].
 
  *
- * @throws {Punch} To any and all bugs.
+ * @throws {BugPunchException} To any and all bugs 🐛🥊
  *
- * @returns {Object}.
+ * @returns {DeveloperProfile}.
  */
 ```
 
