@@ -2,7 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=FLAranoHerrera&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/FLAranoHerrera/FLAranoHerrera/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/FLAranoHerrera/FLAranoHerrera/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
 <div align="center">
@@ -68,7 +68,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" title="NestJS"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" title="NestJS"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
     </kbd>
