@@ -1,0 +1,47 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: FLAranoHerrera
+          gif_out_path: output/github-contribution-grid-snake.svg
+          svg_out_path: output/github-contribution-grid-snake.svg
+
+      - name: push to output branch
+        uses: actions/github-script@v7
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            const outputDir = 'output';
+            const files = fs.readdirSync(outputDir);
+            
+            for (const file of files) {
+              const filePath = path.join(outputDir, file);
+              const content = fs.readFileSync(filePath, 'utf8');
+              
+              await github.rest.repos.createOrUpdateFileContents({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: file,
+                message: `Generate ${file}`,
+                content: Buffer.from(content).toString('base64'),
+                branch: 'output'
+              });
+            }

@@ -1,8 +1,8 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=FLAranoHerrera&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/FLAranoHerrera/FLAranoHerrera/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <div align="center">
@@ -38,11 +38,9 @@
  * @constructor
  * @param {string} Ubicación - Veracruz, México.
  * @param {string[]} Idiomas - [Español, Inglés].
- * @param {string} Estudios - Desarrollador fullstack con especialización en Backend con NestJS.
+ * @param {string} Estudios - Desarrollador fullstack con especialización en Backend con NestJS, Actualmente estudiando Frontend con NextJS.
  * @param {string[]} Pasatiempos - [Videojuegos, Gym, Futbol, Tennis y Programar].
-
- *
- * @throws {BugPunchException} To any and all bugs 🐛🥊
+ * @throws {BugPunchException} Lanza BugPunchException a todos y cada uno de los bugs 🐛🥊
  *
  * @returns {DeveloperProfile}.
  */
@@ -70,6 +68,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" title="NestJS"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
     </kbd>
@@ -80,6 +79,10 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="NextJS"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" title="Vite"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="Bootstrap"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" title="Tailwind CSS"/>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -99,6 +102,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" title="Render"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" title="Vercel"/>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
@@ -113,6 +117,7 @@
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="insomnia" title="Insomnia"/>
   </kbd>
      
   </p>
@@ -123,7 +128,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
@@ -131,12 +136,9 @@
   
 </details>
 
-
-</details>
+</div>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
 
 <div align=center>
 <a href="https://www.linkedin.com/in/francisco-leonardo-arano-herrera-540198169" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
