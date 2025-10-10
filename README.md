@@ -130,9 +130,12 @@
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
-</details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</details>
+
+
 
 </div>
 
