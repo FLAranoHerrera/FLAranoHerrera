@@ -2,7 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=FLAranoHerrera&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/FLAranoHerrera/FLAranoHerrera/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/FLAranoHerrera/FLAranoHerrera/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <div align="center">
@@ -38,9 +38,11 @@
  * @constructor
  * @param {string} Ubicación - Veracruz, México.
  * @param {string[]} Idiomas - [Español, Inglés].
- * @param {string} Estudios - Desarrollador fullstack con especialización en Backend con NestJS, Actualmente estudiando Frontend con NextJS.
+ * @param {string} Estudios - Desarrollador fullstack con especialización en Backend con NestJS Actualmente estudiando Frontend con NextJS.
  * @param {string[]} Pasatiempos - [Videojuegos, Gym, Futbol, Tennis y Programar].
- * @throws {BugPunchException} Lanza BugPunchException a todos y cada uno de los bugs 🐛🥊
+
+ *
+ * @throws {BugPunchException} To any and all bugs 🐛🥊
  *
  * @returns {DeveloperProfile}.
  */
@@ -68,9 +70,9 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" title="NestJS"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+      <img width="30px" src="https://nestjs.com/img/logo-small.svg" alt="nestjs" title="NestJS"/>
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -79,10 +81,10 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="NextJS"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" title="Vite"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="Bootstrap"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" title="Tailwind CSS"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js"/>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
@@ -116,6 +118,7 @@
       <br>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
+      <img width="30px" src="https://avatars.githubusercontent.com/u/143479575?s=200&v=4" alt="Cursor" title="Cursor"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="insomnia" title="Insomnia"/>
   </kbd>
@@ -128,14 +131,18 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
+</details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
+<details>
+  
 </details>
 
 
+</details>
+
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
 
