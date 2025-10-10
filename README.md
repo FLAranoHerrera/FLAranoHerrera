@@ -2,7 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=FLAranoHerrera&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://raw.githubusercontent.com/FLAranoHerrera/FLAranoHerrera/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/FLAranoHerrera/FLAranoHerrera/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
 <div align="center">
@@ -139,6 +139,8 @@
 </div>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</div>
 
 <div align=center>
 <a href="https://www.linkedin.com/in/francisco-leonardo-arano-herrera-540198169" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>

@@ -30,6 +30,10 @@ jobs:
             const path = require('path');
             
             const outputDir = 'output';
+            if (!fs.existsSync(outputDir)) {
+              fs.mkdirSync(outputDir, { recursive: true });
+            }
+            
             const files = fs.readdirSync(outputDir);
             
             for (const file of files) {
