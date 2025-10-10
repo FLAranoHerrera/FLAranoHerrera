@@ -132,10 +132,6 @@
   </p>
 </details>
 
-<details>
-  
-</details>
-
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
