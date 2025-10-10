@@ -31,10 +31,12 @@ jobs:
             
             const outputDir = 'output';
             if (!fs.existsSync(outputDir)) {
-              fs.mkdirSync(outputDir, { recursive: true });
+              console.log('Output directory does not exist');
+              return;
             }
             
             const files = fs.readdirSync(outputDir);
+            console.log('Files found:', files);
             
             for (const file of files) {
               const filePath = path.join(outputDir, file);
