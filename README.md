@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=1100&color=6A0572&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Full+Stack+Developer+%E2%80%A2+Backend+Focus;NestJS+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;APIs+REST+%E2%80%A2+SaaS+%E2%80%A2+Integraciones;Open+to+Remote+Opportunities" alt="Full Stack Developer con enfoque backend, especializado en NestJS, TypeScript, PostgreSQL, APIs REST e integraciones SaaS">
+<img src="./assets/banner/pokemon-tech-banner.svg" width="720" alt="Banner animado con Pikachu, Charmander, Squirtle y Bulbasaur presentando el perfil Full Stack de Frank">
 
 ### ¡Hola! Soy Frank 👋
 
