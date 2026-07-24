@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="80" viewBox="0 0 720 80" role="img" aria-labelledby="title desc">
+  <title id="title">Perfil profesional de Frank con Pokémon</title>
+  <desc id="desc">Banner animado con Pikachu, Charmander, Squirtle y Bulbasaur presentando el perfil Full Stack de Frank.</desc>
+  <style>
+    :root { --bg: #ffffff; --border: #d8b4fe; --name: #6a0572; --text: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #0d1117; --border: #6a0572; --name: #c084fc; --text: #f0f6fc; }
+    }
+    .frame { fill: var(--bg); stroke: var(--border); stroke-width: 2; }
+    .scene { opacity: 0; animation: scene 16s ease-in-out infinite; }
+    .scene-2 { animation-delay: 4s; }
+    .scene-3 { animation-delay: 8s; }
+    .scene-4 { animation-delay: 12s; }
+    .sprite { image-rendering: pixelated; }
+    .pokemon { fill: var(--name); font: 700 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .message { fill: var(--text); font: 600 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @keyframes scene {
+      0% { opacity: 0; transform: translateX(10px); }
+      3%, 22% { opacity: 1; transform: translateX(0); }
+      25%, 100% { opacity: 0; transform: translateX(-10px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .scene { animation: none; opacity: 0; }
+      .scene-1 { opacity: 1; }
+    }
+  </style>
+  <rect class="frame" x="1" y="1" width="718" height="78" rx="14"/>
+
+  <g class="scene scene-1">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAAKlBMVEUAAAAAAAApKSlBQUpiMQhzc4OcUgDFIBjelADmWkH2vSD25lL/9qT////Vai+KAAAAAXRSTlMAQObYZgAAAdlJREFUWMPtlsFqwkAQhjclhB6ztRRReqiHXnoSbz0piLX2JcwliD6A0JsgEuoDlNJTQKzsnkJpSDN9A3PpG3U2ST12J4dCKftjNML/MTObndkwZmRkZPTX5Vb0Wxe/DrQq5nRSHehWBK4PQKtFAWpiU9wctTodygI0SsCZQqfTJgK+P3ZmgAClfltsJ9k+Qf8bKQACQZZlgHptqwC+lhh+ZNleAVz5HRjrAEwGUi4Tr/wX61JaSMzm8wrygo9BD5wjENVKYI3hNDnZbRiqlHJfAHrAuVQmeH9eqooJwB3AABN5egyL+rVF3MrldDtJ5/OwDKADbkSuHJAVgJf7kE1FTmg2lCNKheoOCa7froU2OSo5owLSHeG33s+aJQCuTfKzJhQBsNjRlpEAJHZSrY4tKBNkHeNSqk3XZXUKYEFSApH18D1BfgYAmwZ7CKJhsOsRgHUB7CAMgj5lGM9AIfgJ6wtGA2Ko45UK7lPmUjPGmRThlQr3zCMAM/BxhXz1MLhPAKyiBwCkEH2PkJIlCn+apiKklGDlPQBCYoSQdKBMxUG0o6hx8O9oh53VEAHnqndIj42x/kotpjWYrGgB7Djp5c6R8GgR+Gn5G0cVXwl41bcUIyMjo/+qLw92FGczGN4XAAAAAElFTkSuQmCC" x="20" y="4" width="72" height="72" class="sprite"/>
+    <text x="108" y="32" class="pokemon">Pikachu</text>
+    <text x="108" y="56" class="message">Full Stack Developer · Backend Focus</text>
+  </g>
+  <g class="scene scene-2">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAALVBMVEUAAAAIOYsQEBAYi7QxrO6LKQDeUjnmOQDmrFr2pAD/lEH/xWL/1Qj/1Xv///8NIPGPAAAAAXRSTlMAQObYZgAAAchJREFUWMPtlb9Lw0AUx49A7FwQB6dyYggdOol/h8ulpaDDQY4QF7dQ6FSwHILgFgouFsxwgoOj/gFFyCwi3CJ08a/wXX6s3ouTyH2HJMP75N67+753hDg5OTk5/UntxKxbfKpUJ+JcgQYdFnh5/g2wxgPpg1JFJwD+n6oCn9OeAfoCDxwDcNeP8MAXAI8HHYChAXZb4MIa7+8DcH/U1jC3A9UxiC6A2dS4AXq39hqmsEAccfgCB/bKGytAwasjwQlj3KywsWV0QijNIhEzpQywebUAXsyCmIkADFJAHVlWWjbWSxUfFlQI2ChKSJbP85+BACI5xINM3fNNaSnCC0QjbjZ2VtoAQ8SJFIJVBzFblTmxErGUy7TuoF6+yqwH4UVav7ctl43t9iMTrXXbcv4YYfBTAzRzw39CA3VOPmIa+NcAXDXAFANAvP6oAWYMZRMzwJspwmeYceMXJqUlmJVBayQIQCVaS3DrGhyYLDBTYyKlAQqwlRxggHUNiEDIBWouFaGUEfRPKBeYceZBQ4QyAoOHlyeo0Qepc3oID4aLB8D0TiQ4crZ6dXNOFRYYnVVTL0LfKR6l1Wu7/ex2vVM6IE5OTk7/Ud/V9spBc5Q2fAAAAABJRU5ErkJggg==" x="20" y="4" width="72" height="72" class="sprite"/>
+    <text x="108" y="32" class="pokemon">Charmander</text>
+    <text x="108" y="56" class="message">NestJS · TypeScript · PostgreSQL</text>
+  </g>
+  <g class="scene scene-3">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAAMFBMVEUAAAAQEBApc4NanKRiKQCDKQCLxc205u69agDNeynVlFLVzc3mrFr/1Wr/5pz///8R5ETqAAAAAXRSTlMAQObYZgAAAb1JREFUWMPtlL9KxEAQxi/JC2QvnihaeAkXCwtNBheus7eUPIBZXLGy82ohnZVi4cIl76A2h1ZqJaz2Bxd7C1PoCzgr9jcpBIv9uoX5sfPnm+l0rKysrKz+pwDCdvGjkWxDeBgv5RodWB+dIJCT491D80GLL1wMFm2ACIM5cJlSgYH5YeVWJFRgk0u5z26ADAwM0PukA31M6bgF4JqmHvS+yIBzwjEnAfSUumZqEIHvhZRRbG05iyIMB3uwxkmdjVOW9JTKIOEy8glOxWyC7SyDtCtzCmCMtB9hxcu3kjZrdJJIGVvVsaT1yQWAcV3rRy7AJ3U1hGFZT9UFprWDL8KqsuG7GtfTCJaKTigFYRbVx2vzMX1gk8LFmRPWomoQ0Hp3UkS03f4BSgROgeexmF+6equaaa3PJgsAcU4AqmelVT27uisg5ZLQ3Kqpmlk5u7w/hYTicq80NTw/pRtEgB/VL9glvDPXAMH8jDx5pJXWT+gpY0JGMTjWrB8RCCjxxuDbWqsLBPqMYj8HbZppfc4l9QwEmHnGWES+GxjJfjnaIRNxYlJ3cJNoG8ScnzhHLPb9Thv9glZWVlZWf69vfHii3k2wjfUAAAAASUVORK5CYII=" x="20" y="4" width="72" height="72" class="sprite"/>
+    <text x="108" y="32" class="pokemon">Squirtle</text>
+    <text x="108" y="56" class="message">APIs REST · SaaS · Integraciones</text>
+  </g>
+  <g class="scene scene-4">
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgBAMAAAAQtmoLAAAAMFBMVEUAAAAQEBAYSkoxc3M5lJRSYili1bRzrDGD7sWk1UGsADG9/3PNzc3uIDn/amL///87EAzGAAAAAXRSTlMAQObYZgAAAZ1JREFUWMPtlL9Lw0AUx9NUce1JwMGlLUfbrdAGcVAkl0fI5iSloxiOrg4hiJuWcP+AlPwLASm4lWzB0dG9/0HAunbwpbjfq6PcZ/5+8n5weZZlMBgMhv/F4b75KaOHj5L4ZppMWuT8Y1Gssge6gPmiSLKYINjtukBRvJ0kK5IQPrXHyGhwWxTZyz1BUGOlUjlQOyHRlwhDpSCUKq2FBWFqX6k5hKmU0Wkt6Hs6xwKgdsIqW8Q0IVQpoJBlSawdojmYKRz6+aMHXrYgCPZnqubh7HJZgtdPiALUwmYnTLTCxTpUoObrfAtCUISrZYAzRMtqCz7040S7pbM8kLjSvHoHANHXCx35C/Da0D8NfiyDO8yPGLjQhY7+dV/nUt512DdgiS4X+tfK/bzGBYEdcWhrhYbjv1aVC54D2BRBQAOnBeaAK7CKR/hHPYagwz0cgiAcyAg3KiQIhyZYrsQoD6I9BPAYh1oQQDlMgYw8K0Ch4bouRWhGtSCjll2WJeXqDYe8ZfUC7IYx0qlsMGbZm83Xfqee+HGDwWAwGP7KD5Vqm0oTWykbAAAAAElFTkSuQmCC" x="20" y="4" width="72" height="72" class="sprite"/>
+    <text x="108" y="32" class="pokemon">Bulbasaur</text>
+    <text x="108" y="56" class="message">Open to Remote Opportunities</text>
+  </g>
+</svg>
