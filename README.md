@@ -13,9 +13,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=700&color=6A0572&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+Frank;Desarrollador+Full+Stack;Backend-focused+Full+Stack+Developer;Construyo+APIs+y+productos+web" alt="Presentación animada de Frank">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=1100&color=6A0572&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Full+Stack+Developer+%E2%80%A2+Backend+Focus;NestJS+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;APIs+REST+%E2%80%A2+SaaS+%E2%80%A2+Integraciones;Open+to+Remote+Opportunities" alt="Full Stack Developer con enfoque backend, especializado en NestJS, TypeScript, PostgreSQL, APIs REST e integraciones SaaS">
 
 ### ¡Hola! Soy Frank 👋
 
