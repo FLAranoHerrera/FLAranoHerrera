@@ -185,8 +185,8 @@ My core stack includes **Node.js, NestJS, TypeScript, PostgreSQL, TypeORM, React
 ### GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FLAranoHerrera&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;locale=es" alt="Estadísticas de GitHub de Frank">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=FLAranoHerrera&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;locale=es" alt="Lenguajes más utilizados por Frank">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLAranoHerrera&amp;theme=midnight_purple" alt="Estadísticas de GitHub de Frank">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLAranoHerrera&amp;theme=midnight_purple" alt="Lenguajes más utilizados por Frank">
 </p>
 
 ### ¿Construimos algo juntos?
