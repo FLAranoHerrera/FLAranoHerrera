@@ -33,22 +33,9 @@ Trabajo en el desarrollo y mantenimiento de una plataforma SaaS, creando APIs, i
 
 ### Experiencia profesional
 
-#### Desarrollador Full Stack · Peek Softworks
+**Desarrollador Full Stack en Peek Softworks · desde noviembre de 2025.**
 
-`nov. 2025 – actualidad` · Jornada completa · Presencial<br>
-Boca del Río, Veracruz, México
-
-Desarrollo y mantenimiento de una plataforma SaaS para gestionar y monitorear operaciones de transporte público.
-
-- Desarrollo de aplicaciones y servicios con NestJS, Express.js, Vue.js y Next.js.
-- Integración de APIs REST y flujos de autenticación con JWT y bcrypt.
-- Funcionalidades de geolocalización y geocercas con OpenStreetMap y Google Maps.
-- Integración de barras contadoras de pasajeros y sistemas de cobro en efectivo, códigos QR y tarjetas NFC.
-- Procesamiento de datos operativos y dashboards con métricas de pasajeros, recaudo y unidades de transporte.
-- Comunicación mediante MQTT para centralizar información de un sistema heredado desarrollado con Express.js y Vue.js.
-- Contenerización y despliegue con Docker en DigitalOcean, además de administración de servidores mediante SSH.
-- Integraciones NFC con Python, Pascal y Delphi para lectores y tarjetas MIFARE DESFire.
-- Gestión segura de credenciales con Azure Key Vault y almacenamiento de objetos con MinIO.
+Desarrollo y mantengo una plataforma SaaS para transporte público, con enfoque en backend: APIs, autenticación e integraciones de pagos y geolocalización. También construyo interfaces web y participo en despliegues con Docker y DigitalOcean.
 
 ### Stack principal
 
@@ -112,7 +99,7 @@ Profundizo en **Flutter y Dart** para desarrollar aplicaciones móviles, consumi
 eCommerce colaborativo. Participé en el desarrollo del backend, incluyendo pagos, autenticación y gestión de recursos multimedia.
 
 <a href="https://lienzofront.vercel.app">
-  <img src="./assets/projects/lienzo-culinario.jpg" width="800" alt="Catálogo de productos de Lienzo Culinario">
+  <img src="./assets/projects/lienzo-culinario.jpg" width="480" alt="Catálogo de productos de Lienzo Culinario">
 </a>
 
 `Next.js` `NestJS` `PostgreSQL` `Stripe` `Auth0` `Cloudinary`<br>
@@ -123,7 +110,7 @@ eCommerce colaborativo. Participé en el desarrollo del backend, incluyendo pago
 Punto de venta para restaurantes con usuarios, roles, productos, categorías, extras y órdenes.
 
 <a href="https://sushi-pos-frontend.vercel.app">
-  <img src="./assets/projects/sushi-pos.jpg" width="800" alt="Dashboard de mesero de Sushi POS">
+  <img src="./assets/projects/sushi-pos.jpg" width="480" alt="Dashboard de mesero de Sushi POS">
 </a>
 
 `NestJS` `PostgreSQL` `TypeORM` `JWT` `Swagger`<br>
@@ -134,7 +121,7 @@ Punto de venta para restaurantes con usuarios, roles, productos, categorías, ex
 Proyecto de especialización backend con autenticación y arquitectura modular.
 
 <a href="https://ecommerce-flarano-herrera.onrender.com/api">
-  <img src="./assets/projects/backend-ecommerce.jpg" width="800" alt="Documentación Swagger de Backend Ecommerce">
+  <img src="./assets/projects/backend-ecommerce.jpg" width="480" alt="Documentación Swagger de Backend Ecommerce">
 </a>
 
 `NestJS` `TypeScript` `PostgreSQL` `TypeORM`<br>
@@ -151,22 +138,9 @@ I am a **Full Stack Developer with a strong backend focus**. I currently develop
 
 ### Professional experience
 
-#### Full Stack Developer · Peek Softworks
+**Full Stack Developer at Peek Softworks · since November 2025.**
 
-`Nov 2025 – present` · Full-time · On-site<br>
-Boca del Río, Veracruz, Mexico
-
-I develop and maintain a SaaS platform for managing and monitoring public transportation operations.
-
-- Build applications and services with NestJS, Express.js, Vue.js, and Next.js.
-- Integrate REST APIs and authentication flows using JWT and bcrypt.
-- Develop geolocation and geofencing features with OpenStreetMap and Google Maps.
-- Integrate passenger-counting devices and payment systems supporting cash, QR codes, and NFC cards.
-- Process operational data for dashboards covering ridership, revenue, and fleet metrics.
-- Use MQTT to centralize data from a legacy Express.js and Vue.js fare-collection and passenger-counting system.
-- Containerize and deploy applications with Docker on DigitalOcean and administer servers through SSH.
-- Contribute to NFC integrations using Python, Pascal, Delphi, and MIFARE DESFire readers and cards.
-- Manage credentials with Azure Key Vault and object storage with MinIO.
+I develop and maintain a SaaS platform for public transportation, with a focus on backend: APIs, authentication, and payment and geolocation integrations. I also build web interfaces and contribute to deployments with Docker and DigitalOcean.
 
 ### Current focus
 
@@ -180,12 +154,14 @@ My core stack includes **Node.js, NestJS, TypeScript, PostgreSQL, TypeORM, React
 
 </details>
 
-### GitHub
+### Actividad en GitHub
 
 <p align="center">
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLAranoHerrera&amp;theme=midnight_purple" alt="Estadísticas de GitHub de Frank">
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLAranoHerrera&amp;theme=midnight_purple" alt="Lenguajes más utilizados por Frank">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FLAranoHerrera&amp;theme=midnight_purple" alt="Lenguajes principales por repositorio de Frank">
 </p>
+
+[Ver mi actividad y contribuciones en GitHub](https://github.com/FLAranoHerrera?tab=overview)
 
 ### ¿Construimos algo juntos?
 
@@ -209,6 +185,6 @@ Estoy abierto a oportunidades remotas, conectar con otros desarrolladores, colab
   <img src="https://raw.githubusercontent.com/FLAranoHerrera/FLAranoHerrera/output/github-contribution-grid-snake.svg" alt="Animación de las contribuciones de GitHub de Frank">
 </picture>
 
-<sub>Basado en el concepto visual de <a href="https://github.com/10Kartik">10Kartik</a> · Actualizado el 24/07/2026</sub>
+<sub>Basado en el concepto visual de <a href="https://github.com/10Kartik">10Kartik</a> · Actualizado el 14/09/2026</sub>
 
 </div>

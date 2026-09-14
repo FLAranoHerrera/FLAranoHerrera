@@ -1,0 +1,23 @@
+name: Validate profile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Check Markdown, local links and SVG files
+        run: python3 scripts/validate_profile.py
+      - name: Check whitespace
+        run: git diff --check HEAD
