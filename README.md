@@ -35,7 +35,11 @@ Trabajo en el desarrollo y mantenimiento de una plataforma SaaS, creando APIs, i
 
 **Desarrollador Full Stack en Peek Softworks · desde noviembre de 2025.**
 
-Desarrollo y mantengo una plataforma SaaS para transporte público, con enfoque en backend: APIs, autenticación e integraciones de pagos y geolocalización. También construyo interfaces web y participo en despliegues con Docker y DigitalOcean.
+- **Integración de sistemas con MQTT:** Implementé de forma individual la integración entre un backend legacy en Express y MongoDB y el nuevo backend en NestJS. Normalicé nombres de unidades y cobros registrados en el sistema anterior para hacerlos consumibles desde el nuevo backend.
+
+- **Visualización de unidades en mapas:** Corregí en el frontend de Next.js un problema que impedía renderizar los iconos de los autobuses en mapas de OpenStreetMap y Google Maps, restableciendo la visualización de las unidades.
+
+- **Portal administrativo para operaciones NFC:** Construí un portal para cadenas comerciales que permite gestionar llaves para recargas, expedir tarjetas NFC y consultar su saldo.
 
 ### Stack principal
 
@@ -94,38 +98,28 @@ Profundizo en **Flutter y Dart** para desarrollar aplicaciones móviles, consumi
 
 ### Proyectos destacados
 
-#### 🍽️ Lienzo Culinario
+#### 🛒 Backend Ecommerce — proyecto principal de backend
 
-eCommerce colaborativo. Participé en el desarrollo del backend, incluyendo pagos, autenticación y gestión de recursos multimedia.
+API individual de compras e inventario con NestJS y PostgreSQL. Incluye transacciones con bloqueo de productos, autorización por propietario y rol, migraciones, pruebas de comportamiento y GitHub Actions. No incluye pagos con Stripe.
 
-<a href="https://lienzofront.vercel.app">
-  <img src="./assets/projects/lienzo-culinario.jpg" width="480" alt="Catálogo de productos de Lienzo Culinario">
-</a>
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Jest` `Docker`<br>
+[Ver código y arquitectura](https://github.com/FLAranoHerrera/ecommcerce_m4) · [Explorar API](https://ecommerce-flarano-herrera.onrender.com/api) · [Comprobaciones automáticas](https://github.com/FLAranoHerrera/ecommcerce_m4/actions)
 
-`Next.js` `NestJS` `PostgreSQL` `Stripe` `Auth0` `Cloudinary`<br>
+La API puede tardar en iniciar; el repositorio incluye instrucciones de ejecución local.
+
+#### 🍽️ Lienzo Culinario — ecommerce colaborativo
+
+Proyecto académico en equipo. Participé en el backend: pagos con Stripe, autenticación y recursos multimedia con Cloudinary. Otros integrantes desarrollaron el frontend.
+
+`NestJS` `PostgreSQL` `Stripe` `Auth0` `Cloudinary`<br>
 [Ver backend](https://github.com/lienzoculinariog2/nuevolienzoback-) · [Abrir demo](https://lienzofront.vercel.app)
 
-#### 🍣 Sushi POS
+#### 🍣 Sushi POS — punto de venta en desarrollo
 
-Punto de venta para restaurantes con usuarios, roles, productos, categorías, extras y órdenes.
+Proyecto con usuarios, roles, productos, categorías, extras y órdenes. Incluye una demo frontend para seleccionar productos, crear y cancelar órdenes y simular un cobro. Utiliza datos ficticios en el navegador y no procesa pagos reales.
 
-<a href="https://sushi-pos-frontend.vercel.app">
-  <img src="./assets/projects/sushi-pos.jpg" width="480" alt="Dashboard de mesero de Sushi POS">
-</a>
-
-`NestJS` `PostgreSQL` `TypeORM` `JWT` `Swagger`<br>
-[Ver frontend](https://github.com/FLAranoHerrera/sushi-pos-frontend) · [Ver backend](https://github.com/FLAranoHerrera/sushi-pos-backend) · [Abrir demo](https://sushi-pos-frontend.vercel.app)
-
-#### 🛒 Backend Ecommerce
-
-Proyecto de especialización backend con autenticación y arquitectura modular.
-
-<a href="https://ecommerce-flarano-herrera.onrender.com/api">
-  <img src="./assets/projects/backend-ecommerce.jpg" width="480" alt="Documentación Swagger de Backend Ecommerce">
-</a>
-
-`NestJS` `TypeScript` `PostgreSQL` `TypeORM`<br>
-[Ver código](https://github.com/FLAranoHerrera/ecommcerce_m4) · [Explorar API](https://ecommerce-flarano-herrera.onrender.com/api)
+`Next.js` `React` `NestJS` `PostgreSQL` `TypeORM`<br>
+[Ver frontend](https://github.com/FLAranoHerrera/sushi-pos-frontend) · [Ver backend](https://github.com/FLAranoHerrera/sushi-pos-backend) · [Explorar demo sin registro](https://sushi-pos-frontend.vercel.app/demo)
 
 <details>
 <summary><strong>English version 🇺🇸</strong></summary>
@@ -140,7 +134,9 @@ I am a **Full Stack Developer with a strong backend focus**. I currently develop
 
 **Full Stack Developer at Peek Softworks · since November 2025.**
 
-I develop and maintain a SaaS platform for public transportation, with a focus on backend: APIs, authentication, and payment and geolocation integrations. I also build web interfaces and contribute to deployments with Docker and DigitalOcean.
+- Independently implemented MQTT integration between a legacy Express/MongoDB backend and a new NestJS backend, normalizing vehicle names and recorded fares for consumption by the new system.
+- Fixed bus icon rendering in the Next.js frontend using OpenStreetMap and Google Maps, restoring vehicle visualization.
+- Built an administrative portal for retail chains to manage top-up keys, issue NFC cards and query card balances.
 
 ### Current focus
 
@@ -148,9 +144,9 @@ My core stack includes **Node.js, NestJS, TypeScript, PostgreSQL, TypeORM, React
 
 ### Featured projects
 
-- **Lienzo Culinario:** Collaborative eCommerce platform. I contributed to its backend, including payments, authentication, and media management. [Backend](https://github.com/lienzoculinariog2/nuevolienzoback-) · [Live demo](https://lienzofront.vercel.app)
-- **Sushi POS:** Restaurant point-of-sale system covering users, roles, products, categories, extras, orders, JWT authentication, and Swagger documentation. [Frontend](https://github.com/FLAranoHerrera/sushi-pos-frontend) · [Backend](https://github.com/FLAranoHerrera/sushi-pos-backend) · [Live demo](https://sushi-pos-frontend.vercel.app)
-- **Backend Ecommerce:** Backend specialization project using NestJS, TypeScript, PostgreSQL, TypeORM, authentication, and modular architecture. [Source code](https://github.com/FLAranoHerrera/ecommcerce_m4) · [API](https://ecommerce-flarano-herrera.onrender.com/api)
+- **Backend Ecommerce (main backend sample):** Individual API with transactional purchases, product locking, ownership checks, migrations, behavioral tests and CI. Does not include Stripe payments. [Code](https://github.com/FLAranoHerrera/ecommcerce_m4) · [API](https://ecommerce-flarano-herrera.onrender.com/api).
+- **Lienzo Culinario:** Team-built academic ecommerce. I contributed to backend payments, authentication and media management; other teammates built the frontend. [Backend](https://github.com/lienzoculinariog2/nuevolienzoback-).
+- **Sushi POS:** Work-in-progress restaurant POS with a standalone frontend demo using fictional data and simulated payments. [Frontend](https://github.com/FLAranoHerrera/sushi-pos-frontend) · [Backend](https://github.com/FLAranoHerrera/sushi-pos-backend) · [Demo](https://sushi-pos-frontend.vercel.app/demo).
 
 </details>
 
