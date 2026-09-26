@@ -38,3 +38,9 @@ Si dejan de responder, comprobar las URLs del README y el estado del proveedor. 
 Las Actions se fijan a SHA completos, con la etiqueta de referencia en un comentario. Para actualizarlas, revisar el cambio del proveedor, resolver el commit de la versión elegida y actualizar SHA y comentario juntos. El workflow de validación tiene permisos de lectura; el de publicación necesita `contents: write` para la rama `output`.
 
 No reintroducir una regla de concurrencia en la serpiente sin investigar: el historial del repositorio registra que se retiró tras ejecuciones atascadas en cola.
+
+## CV verificable
+
+El contenido del CV se mantiene en `scripts/build_cv.py`. Requiere Python y ReportLab. Ejecutar `python scripts/build_cv.py` regenera el PDF del perfil; también acepta una ruta de salida como argumento. La copia del portfolio debe sincronizarse y revisarse visualmente después de cada cambio.
+
+Las tres contribuciones de Peek fueron confirmadas por Francisco: integración individual MQTT entre Express/MongoDB y NestJS; corrección de iconos de autobuses en mapas Next.js; portal administrativo para operaciones NFC. No se atribuyen métricas no proporcionadas ni se identifican clientes.
